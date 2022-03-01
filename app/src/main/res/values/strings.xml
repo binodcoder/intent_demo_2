@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentDemoSimple1</string>
+    <string name="first_name">Enter First Name</string>
+    <string name="last_name">Enter Last Name</string>
+    <string name="share_main">Send to Second Activity</string>
+    <string name="label1">FIRST ACTIVITY</string>
+    <string name="label2">SECOND ACTIVITY</string>
+    <string name="share_second">Send to First Activity</string>
+</resources>
